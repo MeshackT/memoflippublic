@@ -1,0 +1,25 @@
+1 splash screen
+2 after 4 seconds, move to level selection
+3 select the level and play
+
+
+no I got it. Let me tell you what I want the bloc to do.
+
+WHen I start the app.
+1. I select ease on the selection screen then it take me to a screengame with 3x3 grid build of cards right?
+this screen has two rounds to complete.
+When I complete one round I then get a dialog box that says I wont the round then promts me to select next round.
+if I select next then I go to the next round with sheffled cards again right?
+
+2. When I complete the two rounds, I get a dialog that says level completed, move on to the next round or restart(two buttons onf the dialog)
+When I select restart, it should make me replay the same level ease from round one.(very important)
+When I choose to click next level, I should then be redirected to selectionScreen where I can select another level which is medium.
+WHen i select the same level I should be promted to restart the level or selection screen. if I select restart level I should start the leve from scretch(meaning the data stored should be erased for this level and start afresh, only this leve)(very important)
+
+3. Then build a gride 5 since it is medium, build it with a different background image.
+Then again I should complete the rounds 2/2 to move to the other level which is hard.(the cycle continues like easey and medium and hard).
+
+4. ALso, when the time hits zero and the cards aint completed then show a dialog that says time out and prompt me if I want to try again or go to selection level.
+When I click try again then I should be able to try playing the same round on  the same level. if i am on round 2/2 medium level then I should retry playing level medium and round 2...like wise with all levels.
+
+5.

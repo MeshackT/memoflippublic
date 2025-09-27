@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33445911920",
+    "project_id": "memoflip-c8996",
+    "storage_bucket": "memoflip-c8996.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33445911920:android:b67062947378a891f283b5",
+        "android_client_info": {
+          "package_name": "com.fshsystems.memoflip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFk-5NyGxD6ZCx2SWfWfzsqL8TY9FywPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
